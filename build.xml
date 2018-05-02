@@ -1,4 +1,4 @@
-<project>
+<project name="tab-documentation-api" basedir=".">
 
     <target name="clean">
         <delete dir="build"/>
